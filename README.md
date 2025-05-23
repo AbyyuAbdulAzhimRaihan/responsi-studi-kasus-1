@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Abyyu Abdul Azhim Raihan  
+NIU : 497717  
+Sesi : 1
+Secret String : 225655e7b36cc277b89acf0eeed11e0ce981a32d0d96c77cbe2f591b3949788420250523021503
 
 ## Checklist Responsi
 
